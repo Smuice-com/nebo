@@ -1,4 +1,4 @@
-# Tailwind CSS Parcel Landing Page [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=Smuice-com/tailwindcss-parcel-starter)](https://dependabot.com) ![Node.js CI](https://github.com/Smuice-com/nebo/workflows/Node.js%20CI/badge.svg)
+# Tailwind CSS Parcel Landing Page
 
 Free landing HTML page based on [Tailwind CSS](https://tailwindcss.com) + [ParcelJS](https://parceljs.org).
 
