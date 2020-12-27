@@ -1,15 +1,15 @@
-# Tailwind CSS Parcel Starter Project [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=SantiMA10/tailwindcss-parcel-starter)](https://dependabot.com) ![Node.js CI](https://github.com/SantiMA10/tailwindcss-parcel-starter/workflows/Node.js%20CI/badge.svg)
+# Tailwind CSS Parcel Landing Page [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=Smuice-com/tailwindcss-parcel-starter)](https://dependabot.com) ![Node.js CI](https://github.com/Smuice-com/nebo/workflows/Node.js%20CI/badge.svg)
 
-This is an example of a super simple [Tailwind CSS](https://tailwindcss.com) + [ParcelJS](https://parceljs.org) starter project.
+Free landing HTML page based on [Tailwind CSS](https://tailwindcss.com) + [ParcelJS](https://parceljs.org).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/SantiMA10/tailwindcss-parcel-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Smuice-com/nebo)
 
 ## Get started
 
 Clone the project and install the dependencies:
 
 ```
-git clone https://github.com/SantiMA10/tailwindcss-parcel-starter
+git clone https://github.com/Smuice-com/nebo
 yarn // or npm i
 ```
 
@@ -29,6 +29,4 @@ yarn prod //or npm run prod
 
 After that you will have a ready to deploy bundle at `/dist`
 
-## Contributing
-
-Please report any issues. New features and ideas that you'd like to see implemented will be welcome, also feel free to send any pull requests.
+Created and maintained with ❤️ by [Smuice.com](https://smuice.com).
